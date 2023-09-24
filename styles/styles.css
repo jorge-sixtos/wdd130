@@ -30,7 +30,7 @@ main {
 aside {
     width: 20rem;
     margin: 1rem;
-    border: 1px solid lightseagreen .2;
+    border: 1px solid lightseagreen;
     padding: 1rem;
     background-color: lightblue;
     color: lightgoldenrodyellow;
